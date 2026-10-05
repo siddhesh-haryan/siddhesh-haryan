@@ -6,7 +6,7 @@ I'm a software engineer in Mumbai. At **DZINR** I build web platforms and system
 
 - **[Kahani Play](https://siddhesh.studio/work/kahani-play)**: an OTT streaming app for Android and iPhone with 500,000+ downloads and 70+ releases (Flutter, Riverpod, NestJS, MongoDB)
 - **[Bookvy Digital School](https://siddhesh.studio/work/bookvy)**: a Flutter edtech app plus a parent app, 10,000+ downloads (Flutter, Riverpod, NestJS, Razorpay)
-- **[Pulse](https://siddhesh.studio/work/pulse)**: a daily astrology app with real-time chat (Flutter, FastAPI, PostgreSQL, Redis)
+- **[Pulse](https://siddhesh.studio/work/pulse)**: a daily astrology app with real-time chat (React Native, Expo, FastAPI, PostgreSQL)
 
 **What I work with**
 
